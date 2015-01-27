@@ -18,12 +18,12 @@
         "symfony/validator": ">=2.1 | >=2.3",
         "imagine/Imagine": "<=0.5",
         "doctrine/orm": "*",
-        "knplabs/knp-gaufrette-bundle": "0.2.*@dev",
         "symfony/finder": ">=2.1"
     },
     
     "require-dev": {
-        "doctrine/mongodb-odm-bundle": "*"
+        "doctrine/mongodb-odm-bundle": "*",
+        "knplabs/knp-gaufrette-bundle": "0.2.*@dev"
     },
 
     "autoload": {
